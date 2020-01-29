@@ -11,5 +11,8 @@ systemctl stop firewalld
 
 ```
 
-
+```
+systemctl start smb
+systemctl enable smb
+```
 
